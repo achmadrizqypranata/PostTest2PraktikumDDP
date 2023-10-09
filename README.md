@@ -7,8 +7,6 @@ Penjelasan Output:
 
 **Menu Admin**
 
-![Screenshot 2023-10-10 030628](https://github.com/achmadrizqypranata/PostTest2PraktikumDDP/assets/144988929/92acfe18-a98c-45bc-adc5-fb3e4d56a042)
-
 Pada bagian awal, akan diperlihatkan pilihan yang dimana user ingin memilih login sebagai admin atau pembeli, jika user ingin masuk sebagai admin, akan menuju ke tampilan login admin
 
 ![Screenshot 2023-10-10 031537](https://github.com/achmadrizqypranata/PostTest2PraktikumDDP/assets/144988929/979830b1-7624-4f64-9690-87ad85b549ee)
