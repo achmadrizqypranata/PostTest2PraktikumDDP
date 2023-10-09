@@ -30,10 +30,17 @@ Pada menu ke 4 ini, user dapat mengubah nama figure yang di inginkan oleh user, 
 
 ![Screenshot 2023-10-10 034239](https://github.com/achmadrizqypranata/PostTest2PraktikumDDP/assets/144988929/bb05b279-5b6d-40cb-a1b1-63c4f2c3047c)
 
-Pada menu ke 5, user dapat meninggalkan dashboard toko figure dengan cara mengketik 5 pada menu pilihan dashboard, maka dashboard akan tertutup.
+Pada menu ke 5, user dapat meninggalkan dashboard figure shop dengan cara mengketik 5 pada menu pilihan dashboard, maka dashboard akan tertutup.
 
 ![Screenshot 2023-10-10 034542](https://github.com/achmadrizqypranata/PostTest2PraktikumDDP/assets/144988929/eae6fc25-a283-443c-9944-57eebba355b4)
 
+**Menu Pembeli**
+
+Pada menu pembeli kali ini, ditunjukan terdapat list daftar figure yang dapat dipilih dan di beli oleh pembeli dan memasukkan jumlah beli yang ingin di beli oleh pembeli.
+
+![Screenshot 2023-10-10 035220](https://github.com/achmadrizqypranata/PostTest2PraktikumDDP/assets/144988929/bb3f5bef-0d4e-4d7a-baa2-f7cb024fb7e6)
+
+Pada bagian ini, akan ditampilkan nama figure, jumlah yang di pesan oleh pembeli, harga figure, pajak, dan total pembayaran yang harus di bayarkan oleh pembeli dan ucapan terima kasih telah berbelanja di figure shop.
 
 
 
