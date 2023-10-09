@@ -42,6 +42,7 @@ Pada menu pembeli kali ini, ditunjukan terdapat list daftar figure yang dapat di
 
 Pada bagian ini, akan ditampilkan nama figure, jumlah yang di pesan oleh pembeli, harga figure, pajak, dan total pembayaran yang harus di bayarkan oleh pembeli dan ucapan terima kasih telah berbelanja di figure shop.
 
+![Screenshot 2023-10-10 035535](https://github.com/achmadrizqypranata/PostTest2PraktikumDDP/assets/144988929/6bef256b-f88e-4a8f-bef3-cf82d0f5057e)
 
 
 
